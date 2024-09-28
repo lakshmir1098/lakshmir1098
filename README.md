@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshmir1098
 - 👀 I’m interested in Development    
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Code
 - 📫 How to reach me ..... mail.
 

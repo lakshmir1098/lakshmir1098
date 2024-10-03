@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lakshmir1098
-- 👀 I’m interested in Development    
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Lakshmi Ramamchandran
+- 👀 I’m a FullStack Developer workign on Angular,Java and My SQL    
+- 🌱 I’m currently expanding my Java programming skills 
 - 💞️ I’m looking to collaborate on Code
-- 📫 How to reach me ..... mail.
+- 📫 Reach me ..... lakshmichandrn1010@gmail.com 
 
 <!---
 lakshmir1098/lakshmir1098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

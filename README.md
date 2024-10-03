@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Lakshmi Ramamchandran
-- 👀 I’m a FullStack Developer workign on Angular,Java and My SQL    
-- 🌱 I’m currently expanding my Java programming skills 
+- 👩‍💻 I’m a FullStack Developer workign on Angular,Java and My SQL    
+- 🌱 I’m currently expanding my Java programming skills
+  
+  - ♻ [Refresh your Java interview skills with me](https://github.com/lakshmir1098/Refresh-your-Java-learnings-with-some-Tip-for-Interview/)
+  - 📚 I also have [DSA coding cheat sheet](https://github.com/lakshmir1098/DSA-coding-cheat-sheet/) and  [Java Coding](https://github.com/lakshmir1098/Java-Coding) repos where each problem is explained with solution
 - 💞️ I’m looking to collaborate on Code
 - 📫 Reach me ..... lakshmichandran1010@gmail.com 
 

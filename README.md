@@ -2,8 +2,7 @@
 - 👩‍💻 I’m a FullStack Developer workign on Angular,Java and My SQL    
 - 🌱 I’m currently expanding my Java and JS programming skills
   
-  - ♻ [Refresh your Java interview skills with me](https://github.com/lakshmir1098/Refresh-your-Java-learnings-with-some-Tip-for-Interview/)
-  - 📚 I also have [DSA coding cheat sheet](https://github.com/lakshmir1098/DSA-coding-cheat-sheet/) and  [Java Coding](https://github.com/lakshmir1098/Java-Coding)
+  - Plannning to complete 160 days GFG challenge in both Java and JavaScript
   - [Mastering JavaScript](https://github.com/lakshmir1098/Master-JS-from-Udemy-Important-Notes)
 - repos where each problem is explained with solution
 - 📫 Reach me ..... lakshmichandran1010@gmail.com 

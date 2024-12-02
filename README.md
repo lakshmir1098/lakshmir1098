@@ -2,7 +2,7 @@
 - 👩‍💻 I’m a FullStack Developer workign on Angular,Java and My SQL    
 - 🌱 I’m currently expanding my Java and JS programming skills
   
-  - Plannning to complete 160 days GFG challenge in both Java and JavaScript
+  - Plannning to complete [160 days GFG challenge](https://github.com/lakshmir1098/GFG-160-days-challenge) in both Java and JavaScript
   - [Mastering JavaScript](https://github.com/lakshmir1098/Master-JS-from-Udemy-Important-Notes)
 - repos where each problem is explained with solution
 - 📫 Reach me ..... lakshmichandran1010@gmail.com 

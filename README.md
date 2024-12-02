@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lakshmi Ramamchandran
-- 👩‍💻 I’m a FullStack Developer workign on Angular,Java and My SQL    
+- 👩‍💻 I’m a FullStack Developer continously imporoving myself on JavaScript,Java and My SQL    
 - 🌱 I’m currently expanding my Java and JS programming skills
   
   - Plannning to complete [160 days GFG challenge](https://github.com/lakshmir1098/GFG-160-days-challenge) in both Java and JavaScript

@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Lakshmi Ramamchandran
 - 👩‍💻 I’m a FullStack Developer continously imporoving myself on JavaScript,Java and My SQL    
-- 🌱 I’m currently expanding my Java and JS programming skills
-  
-  - Plannning to complete [160 days GFG challenge](https://github.com/lakshmir1098/GFG-160-days-challenge) in both Java and JavaScript
-  - [Mastering JavaScript](https://github.com/lakshmir1098/Master-JS-from-Udemy-Important-Notes) from Udemy
-- repos where each problem is explained with solution
+- 🌱 I’m currently expanding my knowledge on Java and JS programming skills and in understanding AWS Cloud architecture
+  - Completed ✔ [Mastering JavaScript](https://lakshmir1098.github.io/Master-JavaScript/) from Udemy
+
 - 📫 Reach me ..... lakshmichandran1010@gmail.com 
 
 <!---
